@@ -48,4 +48,4 @@ client.on('message', msg => {
     }
 })
 
-client.login('ODI5NTc4Nzk0OTc2OTM1OTY4.YG6LdQ.eNnejYY9VHmfeBqSnCeSinA_JDQ')
+client.login('토큰 입력')
